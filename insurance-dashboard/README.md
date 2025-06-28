@@ -51,7 +51,7 @@ Below are output previews of key queries and insights:
 
 | Screenshot        | Description                                                | Preview |
 |-------------------|------------------------------------------------------------|---------|
-| 📌 **Query 1**     | Invoice Count by Account Executive                         | ![Query 1](Insurance_Branch_Performance_Queries_PNG.zip/query_01_invoice_count.png) |
+| 📌 **Query 1**     | Invoice Count by Account Executive                         | ![Query 1](insurance-dashboard/query_01_invoice_count.png) |
 | 📌 **Query 3.1** | Target vs Placed vs Invoice by income class             | ![Query 3](snapshots/query_3.1_income_class_summary.png) |
 | 📌 **Query 3.2** | Target vs Placed vs Invoice by income class             | ![Query 3](snapshots/query_3.2_income_class_summary.png) |
 | 📌 **Query 3.3** | Target vs Placed vs Invoice by income class             | ![Query 3](snapshots/query_3.3_income_class_summary.png) |
