@@ -51,20 +51,20 @@ Below are output previews of key queries and insights:
 
 | Screenshot        | Description                                                | Preview |
 |-------------------|------------------------------------------------------------|---------|
-| 📌 **Query 1**     | Invoice Count by Account Executive                         | ![Query 1](insurance-dashboard/query_01_invoice_count.png) |
-| 📌 **Query 3.1** | Target vs Placed vs Invoice by income class             | ![Query 3](snapshots/query_3.1_income_class_summary.png) |
-| 📌 **Query 3.2** | Target vs Placed vs Invoice by income class             | ![Query 3](snapshots/query_3.2_income_class_summary.png) |
-| 📌 **Query 3.3** | Target vs Placed vs Invoice by income class             | ![Query 3](snapshots/query_3.3_income_class_summary.png) |
-| 📌 **Query 4**     | Revenue by Opportunity Stage                               | ![Query 4](snapshots/query_04_stage_revenue.png) |
-| 📌 **Query 5**     | Meeting Count by Account Executive                         | ![Query 5](snapshots/query_05_meeting_count.png) |
-| 📌 **Query 6**     | Top 10 Opportunities by Revenue                            | ![Query 6](snapshots/query_06_top_opportunities.png) |
-| 📌 **Query 13**    | Opportunity Distribution by Product Group                  | ![Query 13](snapshots/query_13_product_group.png) |
-| 📌 **Query 14** | Top 4 Open and Closed Opportunities by Revenue             | ![Query 14](snapshots/query_14_top_open.png) |
-| 📌 **Query 15** | Top 4 Open and Closed Opportunities by Revenue             | ![Query 15](snapshots/query_15_top_closed.png) |
-| 📌 **Query 19** | Conversion Ratio (Open vs Closed)                          | ![Query 19-20](snapshots/query_19_Open_conversion_ratio.png) |
-| 📌 **Query 20** | Conversion Ratio (Open vs Closed)                          | ![Query 19-20](snapshots/query_20_Closed_conversion_ratio.png) |
-| 📌 **Stored Procedures** | Example usage of `CALL Invoices(ID)` | ![Stored Procedure](snapshots/1_stored_procedure_usage.png) |
-| 📌 **Stored Procedures** | Example usage of `CALL Invoices(ID)` | ![Stored Procedure](snapshots/2_stored_procedure_usage.png) |
+| 📌 **Query 1**     | Invoice Count by Account Executive                         | ![Query 1](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_01_invoice_count.PNG) |
+| 📌 **Query 3.1** | Target vs Placed vs Invoice by income class             | ![Query 3](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_3.1_income_class_summary.png) |
+| 📌 **Query 3.2** | Target vs Placed vs Invoice by income class             | ![Query 3](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_3.2_income_class_summary.png) |
+| 📌 **Query 3.3** | Target vs Placed vs Invoice by income class             | ![Query 3](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_3.3_income_class_summary.png) |
+| 📌 **Query 4**     | Revenue by Opportunity Stage                               | ![Query 4](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_04_stage_revenue.png) |
+| 📌 **Query 5**     | Meeting Count by Account Executive                         | ![Query 5](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_05_meeting_count.png) |
+| 📌 **Query 6**     | Top 10 Opportunities by Revenue                            | ![Query 6](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_06_top_opportunities.png) |
+| 📌 **Query 13**    | Opportunity Distribution by Product Group                  | ![Query 13](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_13_product_group.png) |
+| 📌 **Query 14** | Top 4 Open and Closed Opportunities by Revenue             | ![Query 14](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_14_top_open.png) |
+| 📌 **Query 15** | Top 4 Open and Closed Opportunities by Revenue             | ![Query 15](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_15_top_closed.png) |
+| 📌 **Query 19** | Conversion Ratio (Open vs Closed)                          | ![Query 19-20](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_19_open_conversion_ratio.png) |
+| 📌 **Query 20** | Conversion Ratio (Open vs Closed)                          | ![Query 19-20](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/query_20_clsd_conversion_ratio.png) |
+| 📌 **Stored Procedures** | Example usage of `CALL Invoices(ID)` | ![Stored Procedure](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/1_stored_procedure_usage.png) |
+| 📌 **Stored Procedures** | Example usage of `CALL Meetings(ID)` | ![Stored Procedure](https://github.com/yas324/SQL-Project/blob/main/insurance-dashboard/2_stored_procedure_usage.png) |
 
 ---
 ## 🛠️ Tools Used
