@@ -100,7 +100,7 @@ CALL Meetings(2);
 ---
 ## 🏷 Tags
 
-#SQL &nbsp; #InsuranceAnalytics &nbsp; #MySQL &nbsp; #Dashboard &nbsp; #RevenueAnalysis &nbsp; #OpportunityTracking &nbsp; #DataInsights
+`#SQL` `#Insurance Analytics` `#MySQL` `#Dashboard` `#Revenue Analysis` `#Opportunity Tracking` `#Data Insights`
 
 
 --- 
