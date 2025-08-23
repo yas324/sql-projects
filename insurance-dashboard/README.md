@@ -29,7 +29,7 @@ This repository contains a collection of MySQL queries and stored procedures des
 
 ## 🧠 Key SQL Queries
 
-| #  | Query Purpose                                                |
+| Query  | Query Purpose                                                |
 |----|--------------------------------------------------------------|
 | 1  | Invoice count by Account Executive                           |
 | 2  | Year-wise meeting count                                      |
