@@ -70,7 +70,7 @@ Below are output previews of key queries and insights:
 |**Query 20**                  | Result Wise Visits                                                        | ![Result Wise Visits](https://github.com/yas324/sql-projects/blob/main/healthcare-dashboard/query_20_RESULT_WISE_VISITS.PNG)                         |
 |**Query 21**           | Blood Type Wise Patients                                                  | ![Blood Type Patients](https://github.com/yas324/sql-projects/blob/main/healthcare-dashboard/query_21_BLOOD_TYPE_WISE_PATIENTS.PNG)                  |
 | **SP-01**   | Stored Procedure – Month Wise Visits                                      | ![Stored Procedure Month Visits](https://github.com/yas324/sql-projects/blob/main/healthcare-dashboard/sp_01_STORED_PROCEDURE_MONTH_WISE_VISITS.PNG) |
-| **SP-02**    | Stored Procedure – Month Wise Visits                                      | ![Stored Procedure Month Visits](https://github.com/yas324/sql-projects/blob/main/healthcare-dashboard/sp_02_STORED_PROCEDURE_YEAR_WISE_COUNT.PNG) |
+| **SP-02**    | Stored Procedure – Year Wise Cost                                      | ![Stored Procedure Month Visits](https://github.com/yas324/sql-projects/blob/main/healthcare-dashboard/sp_02_STORED_PROCEDURE_YEAR_WISE_COST.PNG) |
 
 ---
 
